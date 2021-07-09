@@ -1,0 +1,14 @@
+body {
+    background-color: rosybrown;
+}
+
+input {
+    width: 40px;
+    height: 40px;
+    border: 2px solid blue;
+    border-radius: 5px;
+}
+
+.cal {
+    width: 177.6px;
+}

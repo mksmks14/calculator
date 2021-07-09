@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(181, 222, 238);
+    justify-content: center;
+}
+
+.main {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    margin: 2px;
+    border: 1px solid rgb(148, 27, 179);
+    width: 40px;
+    height: 40px;
+    border-radius: 4px;
+}
+
+.cal {
+    width: 140px;
+}
+
+input {
+    margin: 2px;
+    border: 1px solid red;
+    width: 40px;
+    height: 40px;
+    border-radius: 4px;
+}
